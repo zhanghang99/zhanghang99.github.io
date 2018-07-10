@@ -10,6 +10,9 @@
       cursor: pointer;
       list-style: none;
     }
+    span{
+      color:red;
+    }
     .main>li>ul{
       display:none;
     }
@@ -19,39 +22,15 @@
   </style>
 </head>
 <body>
+  <input type="text" class="keywords"><button id="search">搜索</button>
   <ul class="main">
-    <li class="Menus">
+    <!-- <li class="Menus">
       HTML
       <ul>
-        <li>111</li>
+        <li><a href="http://www.baidu.com">111</a></li>
       </ul>
-    </li>
-    <li class="Menus">
-      CSS
-      <ul>
-        <li>222</li>
-      </ul>
-    </li>
-    <li class="Menus">
-      JS
-      <ul>
-        <li>333</li>
-      </ul>
-    </li>
+    </li> -->
   </ul>
-  <script>
-    let ulDom = document.querySelector(".main");
-    ulDom.onclick = function(e){
-      console.log(e.target.className);
-      let liDomName = e.target.className;
-      let ulDomName = e.target.querySelector('ul').className;
-      console.log(ulDomName.length);
-      if(liDomName === 'Menus' && ulDomName.length === 0){
-        e.target.querySelector('ul').className = 'show';
-      }else if(liDomName === 'Menus' && ulDomName.length !== 0){
-        e.target.querySelector('ul').className = ''
-      }
-    }
-  </script>
+  <script src="./index.js"></script>
 </body>
 </html>
