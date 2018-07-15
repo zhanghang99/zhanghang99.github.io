@@ -16,16 +16,13 @@ let arr = [
     name:'JS',
     list:[
       {
-        title:'111',
-        url:'http://www.baidu.com'
+        title:'js中的event详解',
+        url:'https://blog.csdn.net/woxingx/article/details/54176320'
       },
       {
-        title:'222',
-        url:'http://www.baidu.com'
-      },{
-        title:'333',
-        url:'http://www.baidu.com'
-      },
+        title:'event(事件对象)详解',
+        url:'https://www.cnblogs.com/websmile/p/8807334.html'
+      }
     ]
   },
   {
@@ -44,7 +41,7 @@ let arr = [
         url:'http://www.baidu.com'
       },
     ]
-  },
+  }
 ];
 
 //页面初始化根据数据生成元素
