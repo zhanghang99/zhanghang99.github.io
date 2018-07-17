@@ -84,12 +84,13 @@ document.onkeydown = function(e){
 //列表展开和搜索
 function stretch(e){
   let liDomName = e.target.className;
-  if(liDomName === 'Menus'){
-    let ulDomName = e.target.querySelector('ul').className;
+  console.log(liDomName);
+  if(liDomName === 'menusTitle'){
+    let ulDomName = e.target.parentNode.querySelector('ul').className;
     if(ulDomName.length === 0){
-      e.target.querySelector('ul').className = 'show';
+      e.target.parentNode.querySelector('ul').className = 'show';
     }else if(ulDomName.length !== 0){
-      e.target.querySelector('ul').className = ''
+      e.target.parentNode.querySelector('ul').className = ''
     }
   }
 }
@@ -120,7 +121,7 @@ function createDom(arrs,names,keywords){
       childHtml += `<li><a href='${v.url}' target='_block'>${title}</a></li>`
     })
     childHtml += `</ul>`;
-    html += `<li class='Menus'>${val.name}${childHtml}</li>`
+    html += `<li class='Menus'><div class='menusTitle'>${val.name}</div>${childHtml}</li>`
   })
   // debugger;
   return html;
