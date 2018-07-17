@@ -47,7 +47,7 @@ let arr = [
     list:[
       {
         title:'github上最全的资源教程-前端涉及的所有知识体系',
-        url:'https://blog.csdn.net/qq_36538012/article/details/79805555'
+        url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
       }
     ]
   }
