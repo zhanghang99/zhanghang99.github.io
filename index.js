@@ -41,6 +41,15 @@ let arr = [
         url:'http://www.baidu.com'
       },
     ]
+  },
+  {
+    name:'前端',
+    list:[
+      {
+        title:'github上最全的资源教程-前端涉及的所有知识体系',
+        url:'https://blog.csdn.net/qq_36538012/article/details/79805555'
+      }
+    ]
   }
 ];
 
