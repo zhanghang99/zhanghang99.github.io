@@ -98,7 +98,6 @@ function stretch(e){
 function searchs(){
   let keywords = document.querySelector('.keywords').value;
   let arr1 = [];
-  console.log(arr);
   arr.forEach((val)=>{
     let childArr = [];
     childArr = val.list.filter((v)=>{
