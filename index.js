@@ -50,6 +50,15 @@ let arr = [
         url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
       }
     ]
+  },
+  {
+    name:'react',
+    list:[
+      {
+        title:'react-router中文文档',
+        url:'http://react-guide.github.io/react-router-cn/docs/Introduction.html'
+      }
+    ]
   }
 ];
 
