@@ -108,7 +108,7 @@ function createDom(arrs,names,keywords){
     val.list.forEach((v)=>{
       let reg = new RegExp("(" + keywords + ")", "ig");
       let title = names ? v.title.replace(reg,`<span>${keywords}</span>`) : v.title;
-      childHtml += `<li><a href='${v.url}'>${title}</a></li>`
+      childHtml += `<li><a href='${v.url}' target='_block'>${title}</a></li>`
     })
     childHtml += `</ul>`;
     html += `<li class='Menus'>${val.name}${childHtml}</li>`
