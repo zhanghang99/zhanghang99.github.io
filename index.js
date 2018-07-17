@@ -43,20 +43,20 @@ let arr = [
     ]
   },
   {
-    name:'前端',
-    list:[
-      {
-        title:'github上最全的资源教程-前端涉及的所有知识体系',
-        url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
-      }
-    ]
-  },
-  {
     name:'react',
     list:[
       {
         title:'react-router中文文档',
         url:'http://react-guide.github.io/react-router-cn/docs/Introduction.html'
+      }
+    ]
+  },
+  {
+    name:'前端资源',
+    list:[
+      {
+        title:'github上最全的资源教程-前端涉及的所有知识体系',
+        url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
       }
     ]
   }
