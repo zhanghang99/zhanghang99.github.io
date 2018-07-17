@@ -84,10 +84,9 @@ document.onkeydown = function(e){
 //列表展开和搜索
 function stretch(e){
   let liDomName = e.target.className;
-  console.log(liDomName);
   if(liDomName === 'menusTitle'){
     let ulDomName = e.target.parentNode.querySelector('ul').className;
-    if(ulDomName.length === 0){
+    if(ulDomName === 'undefined' || ulDomName.length === 0){
       e.target.parentNode.querySelector('ul').className = 'show';
     }else if(ulDomName.length !== 0){
       e.target.parentNode.querySelector('ul').className = ''
