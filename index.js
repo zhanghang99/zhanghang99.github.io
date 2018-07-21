@@ -22,6 +22,10 @@ let arr = [
       {
         title:'event(事件对象)详解',
         url:'https://www.cnblogs.com/websmile/p/8807334.html'
+      },
+      {
+        title:'JavaScript中,{}+{}等于多少?',
+        url:'http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html'
       }
     ]
   },
@@ -48,6 +52,24 @@ let arr = [
       {
         title:'react-router中文文档',
         url:'http://react-guide.github.io/react-router-cn/docs/Introduction.html'
+      }
+    ]
+  },
+  {
+    name:'移动端',
+    list:[
+      {
+        title:'ios和android 浏览器适配问题总结',
+        url:'https://www.jianshu.com/p/31e53df2ecce'
+      }
+    ]
+  },
+  {
+    name:'浏览器',
+    list:[
+      {
+        title:'浅谈浏览器http的缓存机制',
+        url:'http://www.cnblogs.com/vajoy/p/5341664.html'
       }
     ]
   },
