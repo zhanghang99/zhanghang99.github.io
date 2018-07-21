@@ -70,6 +70,14 @@ let arr = [
       {
         title:'浅谈浏览器http的缓存机制',
         url:'http://www.cnblogs.com/vajoy/p/5341664.html'
+      },
+       {
+        title:'浏览器同源政策及其规避方法',
+        url:'http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html'
+      },
+       {
+        title:'跨域资源共享 CORS 详解',
+        url:'http://www.ruanyifeng.com/blog/2016/04/cors.html'
       }
     ]
   },
