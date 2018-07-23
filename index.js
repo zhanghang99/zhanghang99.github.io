@@ -78,6 +78,10 @@ let arr = [
        {
         title:'跨域资源共享 CORS 详解',
         url:'http://www.ruanyifeng.com/blog/2016/04/cors.html'
+      },
+       {
+        title:'浏览器内核差异以及兼容性处理',
+        url:'https://blog.csdn.net/Prince_fmx/article/details/78040416'
       }
     ]
   },
@@ -85,8 +89,16 @@ let arr = [
     name:'前端资源',
     list:[
       {
+        title:'caniuse',
+        url:'https://www.caniuse.com/'
+      },
+      {
         title:'github上最全的资源教程-前端涉及的所有知识体系',
         url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
+      },
+      {
+        title:'WEB前端要学些什么？WEB前端学习路线！WEB前端从入门到精通',
+        url:'https://www.jianshu.com/p/ac8dd63b388e'
       }
     ]
   }
