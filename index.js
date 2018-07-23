@@ -37,8 +37,8 @@ let arr = [
         url:'http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html'
       },
       {
-        title:'222',
-        url:'http://www.baidu.com'
+        title:'解决flex新旧版本的兼容性写法',
+        url:'https://blog.csdn.net/web_note/article/details/73527865'
       },
       {
         title:'我们都一样',
@@ -99,6 +99,10 @@ let arr = [
       {
         title:'WEB前端要学些什么？WEB前端学习路线！WEB前端从入门到精通',
         url:'https://www.jianshu.com/p/ac8dd63b388e'
+      },
+      {
+        title:'题目',
+        url:'https://springhyc.github.io/InterviewLibrary/'
       }
     ]
   }
