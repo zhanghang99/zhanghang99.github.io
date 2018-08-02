@@ -52,6 +52,14 @@ let arr = [
       {
         title:'react-router中文文档',
         url:'http://react-guide.github.io/react-router-cn/docs/Introduction.html'
+      },
+      {
+        title:'Redux 中文文档',
+        url:'http://www.redux.org.cn/'
+      },
+      {
+        title:'setState方法的调用在React Component生命周期中表现',
+        url:'https://www.acgsior.com/2017/12/18/react-setstate-in-component-lifecycle/'
       }
     ]
   },
