@@ -16,6 +16,10 @@ let arr = [
     name:'JS',
     list:[
       {
+        title:'JavaScript数组的十八般武艺',
+        url:'https://juejin.im/post/5b684ef9e51d451964629ba1'
+      },
+      {
         title:'js中的event详解',
         url:'https://blog.csdn.net/woxingx/article/details/54176320'
       },
@@ -26,7 +30,11 @@ let arr = [
       {
         title:'JavaScript中,{}+{}等于多少?',
         url:'http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html'
-      }
+      },
+      {
+        title:'JS高级技巧',
+        url:'https://juejin.im/post/59ab7b36f265da24934b2470'
+      },
     ]
   },
   {
