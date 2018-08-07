@@ -7,8 +7,8 @@ let arr = [
         url:'http://www.w3school.com.cn/tags/html_ref_eventattributes.asp'
       },
       {
-        title:'222',
-        url:'http://www.baidu.com'
+        title:'HTML/CSS/JS编码规范',
+        url:'https://juejin.im/post/599ececb5188252423583c27'
       },
     ]
   },
@@ -41,8 +41,12 @@ let arr = [
         url:'https://blog.csdn.net/web_note/article/details/73527865'
       },
       {
-        title:'我们都一样',
-        url:'http://www.baidu.com'
+        title:'CSS 变量教程',
+        url:'https://juejin.im/post/5aebcb97f265da0ba56766d0'
+      },
+      {
+        title:'CSS 查漏补缺',
+        url:'https://juejin.im/entry/57b097a90a2b58006327430a'
       },
     ]
   },
