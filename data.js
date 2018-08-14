@@ -117,6 +117,30 @@ let arr = [
     name:'前端资源',
     list:[
       {
+        title:'antd',
+        url:'https://ant.design/index-cn'
+      },
+      {
+        title:'antd-mobile',
+        url:'https://mobile.ant.design/index-cn'
+      },
+      {
+        title:'elementui',
+        url:'http://element-cn.eleme.io/#/zh-CN/component/installation'
+      },
+      {
+        title:'CountUp.js',
+        url:'http://inorganik.github.io/countUp.js/'
+      },
+      {
+        title:'gojs',
+        url:'https://gojs.net/latest/index.html'
+      },
+      {
+        title:'echarts',
+        url:'http://echarts.baidu.com/'
+      },
+      {
         title:'caniuse',
         url:'https://www.caniuse.com/'
       },
