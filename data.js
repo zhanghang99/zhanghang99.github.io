@@ -35,6 +35,14 @@ let arr = [
         title:'JS高级技巧',
         url:'https://juejin.im/post/59ab7b36f265da24934b2470'
       },
+      {
+        title:'使用 JS 直接截取 视频片段 生成 gif 动画',
+        url:'https://juejin.im/entry/5afce5c4f265da0b981ba7bf'
+      },
+      {
+        title:'什么是跨域？',
+        url:'https://segmentfault.com/a/1190000011145364'
+      },
     ]
   },
   {
@@ -141,8 +149,20 @@ let arr = [
         url:'http://echarts.baidu.com/'
       },
       {
+        title:'Font Awesome',
+        url:'https://fontawesome.com/'
+      },
+      {
+        title:'iconfont',
+        url:'http://www.iconfont.cn/'
+      },
+      {
         title:'caniuse',
         url:'https://www.caniuse.com/'
+      },
+      {
+        title:'移动端调试痛点？——送你五款前端开发利器',
+        url:'https://juejin.im/post/5b72e1f66fb9a009d018fb94'
       },
       {
         title:'github上最全的资源教程-前端涉及的所有知识体系',
@@ -164,6 +184,14 @@ let arr = [
       {
         title:'JDK api',
         url:'http://tool.oschina.net/apidocs/apidoc?api=jdk-zh'
+      },
+      {
+        title:'步骤二之创建接口：Intellij IDEA创建 java 后端 SpringBoot项目',
+        url:'https://blog.csdn.net/u013777094/article/details/78580710/'
+      },
+      {
+        title:'步骤三之连接数据库需要的第三方jar包本地引用：使用idea 在springboot添加本地jar包的方法',
+        url:'https://blog.csdn.net/huxiaodong1994/article/details/80702278'
       }
     ]
   }
