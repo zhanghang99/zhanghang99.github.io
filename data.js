@@ -194,5 +194,18 @@ let arr = [
         url:'https://blog.csdn.net/huxiaodong1994/article/details/80702278'
       }
     ]
+  },
+  {
+    name:'npm',
+    list:[
+      {
+        title:'通过npm发布自己的第一个React组件',
+        url:'https://segmentfault.com/a/1190000012715027'
+      },
+      {
+        title:'如何更新自己写的npm包（模块），假设已经在npm中发布了一个1.0.0版本的包',
+        url:'https://blog.csdn.net/cvper/article/details/79051048'
+      }
+    ]
   }
 ];
