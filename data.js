@@ -125,6 +125,26 @@ let arr = [
     name:'前端资源',
     list:[
       {
+        title:'JS进阶',
+        url:'https://wtser.gitbooks.io/deep-learn-javascript/content/chapter1/README.html'
+      },
+      {
+        title:'移动端调试痛点？——送你五款前端开发利器',
+        url:'https://juejin.im/post/5b72e1f66fb9a009d018fb94'
+      },
+      {
+        title:'github上最全的资源教程-前端涉及的所有知识体系',
+        url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
+      },
+      {
+        title:'WEB前端要学些什么？WEB前端学习路线！WEB前端从入门到精通',
+        url:'https://www.jianshu.com/p/ac8dd63b388e'
+      },
+      {
+        title:'题目',
+        url:'https://springhyc.github.io/InterviewLibrary/'
+      },
+      {
         title:'antd',
         url:'https://ant.design/index-cn'
       },
@@ -160,22 +180,7 @@ let arr = [
         title:'caniuse',
         url:'https://www.caniuse.com/'
       },
-      {
-        title:'移动端调试痛点？——送你五款前端开发利器',
-        url:'https://juejin.im/post/5b72e1f66fb9a009d018fb94'
-      },
-      {
-        title:'github上最全的资源教程-前端涉及的所有知识体系',
-        url:'https://blog.csdn.net/qq_34348873/article/details/52572008'
-      },
-      {
-        title:'WEB前端要学些什么？WEB前端学习路线！WEB前端从入门到精通',
-        url:'https://www.jianshu.com/p/ac8dd63b388e'
-      },
-      {
-        title:'题目',
-        url:'https://springhyc.github.io/InterviewLibrary/'
-      }
+      
     ]
   },
   {
