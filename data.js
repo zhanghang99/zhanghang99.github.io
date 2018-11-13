@@ -212,5 +212,22 @@ let arr = [
         url:'https://blog.csdn.net/cvper/article/details/79051048'
       }
     ]
+  },
+  {
+    name:'面试题',
+    list:[
+      {
+        title:'JavaScript 垃圾回收',
+        url:'https://www.cnblogs.com/dolphinX/p/3348468.html'
+      },
+      {
+        title:'个人总结（css3新特性）',
+        url:'https://juejin.im/post/5a0c184c51882531926e4294'
+      },
+      {
+        title:'前端面试之 CSS3 新特性',
+        url:'https://juejin.im/entry/595f1e3c5188250d914dd53c'
+      },
+    ]
   }
 ];
