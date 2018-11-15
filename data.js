@@ -214,8 +214,20 @@ let arr = [
     ]
   },
   {
-    name:'面试题',
+    name:'知识点',
     list:[
+      {
+        title:'HTML5的新特性概述（上）',
+        url:'https://juejin.im/post/5be8d817e51d457f7a4aba13'
+      },
+      {
+        title:'HTML5新特性概述(下)',
+        url:'https://juejin.im/post/5bea349a518825170d1a9db1'
+      },
+      {
+        title:'详解H5非常重要的28个新特性,新技巧和新技术',
+        url:'http://www.php.cn/html5-tutorial-363047.html'
+      },
       {
         title:'JavaScript 垃圾回收',
         url:'https://www.cnblogs.com/dolphinX/p/3348468.html'
