@@ -43,6 +43,7 @@ let arr = [
         title:'什么是跨域？',
         url:'https://segmentfault.com/a/1190000011145364'
       },
+      
     ]
   },
   {
@@ -239,6 +240,14 @@ let arr = [
       {
         title:'前端面试之 CSS3 新特性',
         url:'https://juejin.im/entry/595f1e3c5188250d914dd53c'
+      },
+      {
+        title:'一年半经验，百度、有赞、阿里面试总结',
+        url:'https://juejin.im/post/5befeb5051882511a8527dbe'
+      },
+      {
+        title:'前端面试的一道算法题（使用canvas解答图中图像个数以及面积大小）',
+        url:'https://www.jianshu.com/p/f54d265f7aa4'
       },
     ]
   }
