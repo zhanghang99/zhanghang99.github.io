@@ -249,6 +249,10 @@ let arr = [
         title:'前端面试的一道算法题（使用canvas解答图中图像个数以及面积大小）',
         url:'https://www.jianshu.com/p/f54d265f7aa4'
       },
+      {
+        title:'某大厂面试题与解析（欢迎纠错，优化）',
+        url:'https://juejin.im/post/5be2fcd7f265da616d53aad0'
+      },
     ]
   }
 ];
