@@ -99,7 +99,7 @@ let arr = [
     ]
   },
   {
-    name:'react',
+    name:'React',
     list:[
       {
         title:'react-router中文文档',
@@ -152,7 +152,7 @@ let arr = [
     ]
   },
   {
-    name:'vue',
+    name:'Vue',
     list:[
       {
         title:'VUE 和 VUEX 中的数据流',
