@@ -10,6 +10,18 @@ let arr = [
         title:'HTML/CSS/JS编码规范',
         url:'https://juejin.im/post/599ececb5188252423583c27'
       },
+      {
+        title:'HTML5的新特性概述（上）',
+        url:'https://juejin.im/post/5be8d817e51d457f7a4aba13'
+      },
+      {
+        title:'HTML5新特性概述(下)',
+        url:'https://juejin.im/post/5bea349a518825170d1a9db1'
+      },
+      {
+        title:'详解H5非常重要的28个新特性,新技巧和新技术',
+        url:'http://www.php.cn/html5-tutorial-363047.html'
+      },
     ]
   },
   {
@@ -43,7 +55,14 @@ let arr = [
         title:'什么是跨域？',
         url:'https://segmentfault.com/a/1190000011145364'
       },
-      
+      {
+        title:'JavaScript 垃圾回收',
+        url:'https://www.cnblogs.com/dolphinX/p/3348468.html'
+      },
+      {
+        title:'深拷贝和浅拷贝',
+        url:'https://juejin.im/post/5beb93de6fb9a049c30ac9ee'
+      },
     ]
   },
   {
@@ -65,6 +84,18 @@ let arr = [
         title:'CSS 查漏补缺',
         url:'https://juejin.im/entry/57b097a90a2b58006327430a'
       },
+      {
+        title:'个人总结（css3新特性）',
+        url:'https://juejin.im/post/5a0c184c51882531926e4294'
+      },
+      {
+        title:'前端面试之 CSS3 新特性',
+        url:'https://juejin.im/entry/595f1e3c5188250d914dd53c'
+      },
+      {
+        title:'CSS 居中：完全指南',
+        url:'https://juejin.im/entry/583b954b61ff4b006b55b43d'
+      },
     ]
   },
   {
@@ -81,7 +112,56 @@ let arr = [
       {
         title:'setState方法的调用在React Component生命周期中表现',
         url:'https://www.acgsior.com/2017/12/18/react-setstate-in-component-lifecycle/'
-      }
+      },
+      {
+        title:'react生命周期的基本用法',
+        url:'https://www.jianshu.com/p/c9bc994933d5'
+      },
+      {
+        title:'react-router入门和初步配置',
+        url:'https://www.jianshu.com/p/d46ad14dab7c'
+      },
+      {
+        title:'React-router4简约教程',
+        url:'http://react-china.org/t/react-router4/15843'
+      },
+      {
+        title:'react如何实现代码分割，路由动态加载',
+        url:'https://blog.csdn.net/qq_35484341/article/details/80506297'
+      },
+      {
+        title:'React router动态加载组件-适配器模式的应用',
+        url:'http://www.cnblogs.com/walls/p/9632541.html'
+      },
+      {
+        title:'深入理解 react-router 路由系统',
+        url:'https://www.cnblogs.com/wyaocn/p/5805777.html'
+      },
+      {
+        title:'React 数据流管理架构之 Redux',
+        url:'https://juejin.im/entry/575578ad6be3ff006bfad8b9'
+      },
+      {
+        title:'dva',
+        url:'https://dvajs.com/guide/#%E7%89%B9%E6%80%A7'
+      },
+      {
+        title:'redux中间件',
+        url:'https://juejin.im/post/5ad83af26fb9a045e66c3d50'
+      },
+    ]
+  },
+  {
+    name:'vue',
+    list:[
+      {
+        title:'VUE 和 VUEX 中的数据流',
+        url:'https://juejin.im/entry/58007bcf0bd1d00058eefe69'
+      },
+      {
+        title:'深入理解 Vue 单向数据流',
+        url:'https://juejin.im/entry/59e8b8a8518825579d131e51'
+      },
     ]
   },
   {
@@ -98,7 +178,15 @@ let arr = [
       {
         title:'移动端H5解惑-页面适配（二）',
         url:'https://juejin.im/post/5b6503dee51d45191e0d30d2'
-      }
+      },
+      {
+        title:'移动端适配问题解决方案',
+        url:'https://juejin.im/post/5add7a44f265da0b886d05f8'
+      },
+      {
+        title:'7 种方法解决移动端 Retina 屏幕 1px 边框问题',
+        url:'https://juejin.im/entry/584e427361ff4b006cd22c7c'
+      },
     ]
   },
   {
@@ -119,7 +207,23 @@ let arr = [
        {
         title:'浏览器内核差异以及兼容性处理',
         url:'https://blog.csdn.net/Prince_fmx/article/details/78040416'
-      }
+      },
+       {
+        title:'我知道的HTTP请求',
+        url:'https://juejin.im/post/5a757d2f5188254e5c6c404a'
+      },
+       {
+        title:'http请求头与响应头的应用',
+        url:'https://juejin.im/post/5b854ddef265da43635d9302'
+      },
+       {
+        title:'8大前端安全问题（上）',
+        url:'https://juejin.im/entry/59f999d25188254897330bbc'
+      },
+       {
+        title:'8大前端安全问题（下） – ThoughtWorks洞见',
+        url:'https://juejin.im/entry/59fc370b518825619a020b6c'
+      },
     ]
   },
   {
@@ -218,30 +322,6 @@ let arr = [
     name:'知识点',
     list:[
       {
-        title:'HTML5的新特性概述（上）',
-        url:'https://juejin.im/post/5be8d817e51d457f7a4aba13'
-      },
-      {
-        title:'HTML5新特性概述(下)',
-        url:'https://juejin.im/post/5bea349a518825170d1a9db1'
-      },
-      {
-        title:'详解H5非常重要的28个新特性,新技巧和新技术',
-        url:'http://www.php.cn/html5-tutorial-363047.html'
-      },
-      {
-        title:'JavaScript 垃圾回收',
-        url:'https://www.cnblogs.com/dolphinX/p/3348468.html'
-      },
-      {
-        title:'个人总结（css3新特性）',
-        url:'https://juejin.im/post/5a0c184c51882531926e4294'
-      },
-      {
-        title:'前端面试之 CSS3 新特性',
-        url:'https://juejin.im/entry/595f1e3c5188250d914dd53c'
-      },
-      {
         title:'一年半经验，百度、有赞、阿里面试总结',
         url:'https://juejin.im/post/5befeb5051882511a8527dbe'
       },
@@ -253,6 +333,20 @@ let arr = [
         title:'某大厂面试题与解析（欢迎纠错，优化）',
         url:'https://juejin.im/post/5be2fcd7f265da616d53aad0'
       },
+      
+      {
+        title:'追求极致的用户体验ssr(基于vue的服务端渲染)',
+        url:'https://www.cnblogs.com/jcscript/p/7574276.html'
+      },
+      {
+        title:'入职第一天：前端leader手把手教我入门Vue服务器端渲染（SSR）',
+        url:'https://www.imooc.com/article/28337'
+      },
+      {
+        title:'从单页应用(SPA)到服务器渲染(SSR)',
+        url:'https://www.jianshu.com/p/1e63f434051d'
+      },
+      
     ]
   }
 ];
