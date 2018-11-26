@@ -56,6 +56,10 @@ let arr = [
         url:'https://segmentfault.com/a/1190000011145364'
       },
       {
+        title:'为什么form表单提交没有跨域问题，但ajax提交有跨域问题？',
+        url:'https://www.zhihu.com/question/31592553'
+      },
+      {
         title:'JavaScript 垃圾回收',
         url:'https://www.cnblogs.com/dolphinX/p/3348468.html'
       },
@@ -63,6 +67,35 @@ let arr = [
         title:'深拷贝和浅拷贝',
         url:'https://juejin.im/post/5beb93de6fb9a049c30ac9ee'
       },
+      {
+        title:'前端实现文件的断点续传',
+        url:'https://www.cnblogs.com/imwtr/p/5957391.html'
+      },
+      {
+        title:'HTML5文件上传，断点续传的开发实现笔记',
+        url:'https://blog.csdn.net/ababab12345/article/details/80581860'
+      },
+      {
+        title:'ES6 Promise 和 Async/await的使用',
+        url:'https://juejin.im/post/5a3c68426fb9a0451969c58e'
+      },
+      {
+        title:'Async/Await替代Promise的6个理由',
+        url:'https://juejin.im/post/58ede4c1b123db43cc365551'
+      },
+      {
+        title:'如何中断一个正在发出的请求',
+        url:'https://juejin.im/post/5acefbdbf265da237b227797'
+      },
+      {
+        title:'观察者模式（ObserverPattern）',
+        url:'https://juejin.im/post/57de12355bbb50005e648bd8'
+      },
+      {
+        title:'设计模式之中介者模式',
+        url:'https://juejin.im/post/5afbe3876fb9a07acc11e5c1'
+      },
+      
     ]
   },
   {
@@ -149,6 +182,14 @@ let arr = [
         title:'redux中间件',
         url:'https://juejin.im/post/5ad83af26fb9a045e66c3d50'
       },
+      {
+        title:'React的基本知识和优缺点',
+        url:'https://www.cnblogs.com/cxying93/p/6115425.html'
+      },
+      {
+        title:'vue, react, angular优缺点',
+        url:'https://blog.csdn.net/cherry_zhang18/article/details/78749329'
+      },
     ]
   },
   {
@@ -223,6 +264,14 @@ let arr = [
        {
         title:'8大前端安全问题（下） – ThoughtWorks洞见',
         url:'https://juejin.im/entry/59fc370b518825619a020b6c'
+      },
+       {
+        title:'HTTP2 详解',
+        url:'https://juejin.im/post/5b88a4f56fb9a01a0b31a67e'
+      },
+       {
+        title:'JavaScript异步并发请求问题',
+        url:'https://www.jianshu.com/p/f01cc25f7a07'
       },
     ]
   },
