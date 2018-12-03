@@ -95,6 +95,34 @@ let arr = [
         title:'设计模式之中介者模式',
         url:'https://juejin.im/post/5afbe3876fb9a07acc11e5c1'
       },
+      {
+        title:'浅析Service Worker',
+        url:'https://juejin.im/post/5b5e8efbf265da0f60131ff4'
+      },
+      {
+        title:'Service worker 介绍',
+        url:'https://juejin.im/entry/59015d3c1b69e60058bb5cd9'
+      },
+      {
+        title:'聊聊 webworker',
+        url:'https://juejin.im/entry/591946e0da2f60005df4ce5b'
+      },
+      {
+        title:'对webWorker多线程性能的初步探索',
+        url:'https://juejin.im/post/5a02aacd51882531b15aec49'
+      },
+      {
+        title:'WebSocket 浅析',
+        url:'https://juejin.im/entry/58bd0579128fe1007e5c62c7'
+      },
+      {
+        title:'WebSocket 与 TCP/IP',
+        url:'https://juejin.im/entry/59228616da2f60005d5ab8e1'
+      },
+      {
+        title:'WebWorker与WebSocket实现前端消息总线',
+        url:'https://juejin.im/post/5b6d386ff265da0f9b4e1442'
+      },
       
     ]
   },
@@ -128,6 +156,14 @@ let arr = [
       {
         title:'CSS 居中：完全指南',
         url:'https://juejin.im/entry/583b954b61ff4b006b55b43d'
+      },
+      {
+        title:'position: sticky 详解（防坑指南）',
+        url:'https://juejin.im/entry/5819999f67f356005879ffcf'
+      },
+      {
+        title:'Tips-移动端滑动固顶效果(position: sticky)',
+        url:'https://juejin.im/post/588f2fb2128fe1006c86dfd2'
       },
     ]
   },
@@ -189,6 +225,14 @@ let arr = [
       {
         title:'vue, react, angular优缺点',
         url:'https://blog.csdn.net/cherry_zhang18/article/details/78749329'
+      },
+      {
+        title:'深入React知识点整理（一）',
+        url:'https://segmentfault.com/a/1190000012432236'
+      },
+      {
+        title:'深入React知识点整理（二）',
+        url:'https://segmentfault.com/a/1190000012432321'
       },
     ]
   },
@@ -272,6 +316,22 @@ let arr = [
        {
         title:'JavaScript异步并发请求问题',
         url:'https://www.jianshu.com/p/f01cc25f7a07'
+      },
+       {
+        title:'TCP连接复用（TCP Connection Reuse）',
+        url:'http://blog.51cto.com/gaibianziji/1211940'
+      },
+       {
+        title:'hey，你的Event Loop',
+        url:'https://juejin.im/post/5b63b4cb6fb9a04fb4017f5a'
+      },
+       {
+        title:'javascript 事件流',
+        url:'https://juejin.im/entry/5826ba9d0ce4630056f85e07'
+      },
+       {
+        title:'js中的事件委托或是事件代理详解',
+        url:'https://www.cnblogs.com/liugang-vip/p/5616484.html'
       },
     ]
   },
