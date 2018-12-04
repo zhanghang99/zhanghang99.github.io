@@ -123,6 +123,14 @@ let arr = [
         title:'WebWorker与WebSocket实现前端消息总线',
         url:'https://juejin.im/post/5b6d386ff265da0f9b4e1442'
       },
+      {
+        title:'翻译 | 原生 ECMAScript 模块：动态 import（）',
+        url:'https://juejin.im/entry/58ba3308a22b9d005ede7565'
+      },
+      {
+        title:'import、require、export、module.exports 混合使用详解',
+        url:'https://juejin.im/post/5a2e5f0851882575d42f5609'
+      },
       
     ]
   },
